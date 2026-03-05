@@ -7,7 +7,7 @@
 I like using data to understand real-world problems and find insights that help people make better decisions. Right now I’m learning and building projects with Python, SQL, Excel, data visualization, scikit-learn, and Power BI.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VeT8YIhHBSCKovzmES/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/VeT8YIhHBSCKovzmES/giphy.gif" width="350">
 </p>
 
 ---
