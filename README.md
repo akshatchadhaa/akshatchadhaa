@@ -1,4 +1,4 @@
-# Sup, I'm Akshat 👋
+# Yo, I'm Akshat 👋
 
 📊 Aspiring Data Analyst
 🎓 BBA Student
