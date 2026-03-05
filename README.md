@@ -17,15 +17,15 @@ I like using data to understand real-world problems and find insights that help 
 
 Tools: Python, Pandas, Matplotlib, Scikit-learn
 
-Explored relationships between song audio features and popularity
+- Explored relationships between song audio features and popularity
 
-Cleaned and analyzed a dataset of Spotify tracks
+- Cleaned and analyzed a dataset of Spotify tracks
 
-Built visualizations to identify trends and correlations
+-  Built visualizations to identify trends and correlations
 
-Developed a Random Forest classification model to predict hit vs. non-hit songs based on audio features
+- Developed a Random Forest classification model to predict hit vs. non-hit songs based on audio features
 
-Found that audio features have only a low to moderate impact on popularity, while factors like marketing, artist recognition, and playlist placement likely play a larger role
+* Found that audio features have only a low to moderate impact on popularity, while factors like marketing, artist recognition, and playlist placement likely play a larger role
 
 ---
 
