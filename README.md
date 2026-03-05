@@ -1,4 +1,4 @@
-# Hi, I'm Akshat 👋
+# Sup, I'm Akshat 👋
 
 📊 Aspiring Data Analyst
 🎓 BBA Student
@@ -13,7 +13,7 @@ I like using data to understand real-world problems and find insights that help 
 ---
 ## 🚀 Featured Projects
 
-###🎧 Spotify Popularity Analysis
+### 🎧 Spotify Popularity Analysis
 
 Tools: Python, Pandas, Matplotlib, Scikit-learn
 
