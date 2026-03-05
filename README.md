@@ -5,7 +5,7 @@
 📍 India
 
 <p align="center">
-  # Data junkie
+  𝗗𝗮𝘁𝗮 𝗝𝘂𝗻𝗸𝗶𝗲
 </p>
 
 
