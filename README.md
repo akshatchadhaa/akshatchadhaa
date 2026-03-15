@@ -26,7 +26,9 @@ I like using data to understand real-world problems and find insights that help 
 ---
 ## 🚀 Featured Projects
 
-### 🎧 Spotify Popularity Analysis !https://github.com/akshatchadhaa/spotify-popularity-analysis
+### 🎧 Spotify Popularity Analysis 
+
+🔹 [Spotify Hit Song Analysis](https://github.com/akshatchadha/spotify-hit-song-analysis)
 
 Tools: Python, Pandas, Matplotlib, Scikit-learn
 
